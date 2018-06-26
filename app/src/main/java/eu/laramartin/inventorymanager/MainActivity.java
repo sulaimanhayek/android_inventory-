@@ -60,6 +60,7 @@ public class MainActivity extends AppCompatActivity {
     StockCursorAdapter adapter;
     int lastVisibleItem = 0;
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
